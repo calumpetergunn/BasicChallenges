@@ -5,4 +5,4 @@ function wordReverse(input){
     return combinedReversedString;
 }
 
-console.log(wordReverse("Hello team how are we"));
+console.log(wordReverse("Hello, team how are we"));
